@@ -1,0 +1,128 @@
+/* Add all your styles here */
+
+body{
+        font-family: pixel;
+        color: blue;
+        line-height: 26px;
+}
+.Red-color{
+  color: red;
+}
+.Size{
+  width: 30px;
+  height: 30px;
+}
+.Half-width{
+   width: 50%;
+   float: left;
+}
+.side-img{
+   width: 50%;
+   padding-left: 25px;
+   Position: relative;
+   Top: 200px;
+   Left: -10px;
+}
+.pacman {
+  font-weight: 700px;
+}
+.left-image{
+   width: 10px;
+   height: 30px;
+   Padding-right: 200px;
+   float: right;
+}
+.primary-button{
+   Color: #00BFFF;
+   Background-color: #6495ED;
+   Padding: 13px 42px;
+   Border-radius: 20px;
+   text-radiation:none;
+}
+h1{
+      font-size: 2.5em;
+      line-height: 40px;
+}
+.container{
+   padding-left: 5%;
+   display: inline-block;
+}
+. experiences{
+   margin: 30px;
+   Background-color: rgb( 238,  251,  255)
+   padding: 30px;
+   Border-radius: 20px;
+   
+}
+.experience-item{
+   Padding: 20px;
+   border-left: 1px solid rgba(137, 130, 247,.2)
+}
+.size{
+   height: 313px;
+   width: 313px;
+}
+/* Add all your styles here */
+
+body{
+        font-family: pixel;
+        color: blue;
+        line-height: 26px;
+}
+.Red-color{
+  color: red;
+}
+.Size{
+  width: 30px;
+  height: 30px;
+}
+.Half-width{
+   width: 50%;
+   float: left;
+}
+.side-img{
+   width: 50%;
+   padding-left: 25px;
+   Position: relative;
+   Top: 200px;
+   Left: -10px;
+}
+.pacman {
+  font-weight: 700px;
+}
+.left-image{
+   width: 10px;
+   height: 30px;
+   Padding-right: 200px;
+   float: right;
+}
+.primary-button{
+   Color: #00BFFF;
+   Background-color: #6495ED;
+   Padding: 13px 42px;
+   Border-radius: 20px;
+   text-radiation:none;
+}
+h1{
+      font-size: 2.5em;
+      line-height: 40px;
+}
+.container{
+   padding-left: 5%;
+   display: inline-block;
+}
+. experiences{
+   margin: 30px;
+   Background-color: rgb( 238,  251,  255)
+   padding: 30px;
+   Border-radius: 20px;
+   
+}
+.experience-item{
+   Padding: 20px;
+   border-left: 1px solid rgba(137, 130, 247,.2)
+}
+.size{
+   height: 313px;
+   width: 313px;
+}
